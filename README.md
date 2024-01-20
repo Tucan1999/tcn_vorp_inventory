@@ -11,7 +11,7 @@ delete your vorp_invenory [html] file
 
 Replace with my html file ! 
 
-My Media 
+If you need Help join the link !
 
 DISCORD https://discord.gg/zRCKyjMfUm
 
