@@ -10,3 +10,9 @@ delete your vorp_invenory [html] file
 !!!!!! make sure you to keep the items file !!!!!
 
 Replace with my html file ! 
+
+My Media 
+
+DISCORD https://discord.gg/zRCKyjMfUm
+
+GitHub https://github.com/Tucan1999
